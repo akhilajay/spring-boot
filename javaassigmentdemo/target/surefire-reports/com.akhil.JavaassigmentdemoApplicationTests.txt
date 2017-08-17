@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.akhil.JavaassigmentdemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.323 sec - in com.akhil.JavaassigmentdemoApplicationTests
